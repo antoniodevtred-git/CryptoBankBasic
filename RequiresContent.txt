@@ -1,0 +1,9 @@
+01 : Only admin can call this function
+02 : Max balance exceeded for this user
+03 : Not enough balance to withdraw
+04 : Transfer failed when sending Ether
+05 : User must repay outstanding loan before withdrawing
+06 : No deposit found to calculate loan
+07 : User already has an active loan
+08 : Incorrect repayment amount
+09 : Loan transfer failed
